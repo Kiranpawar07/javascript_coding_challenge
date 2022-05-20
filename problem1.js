@@ -21,6 +21,13 @@ function findFirstUnique(arr) {
 
 
 var arr = [9, 2, 3, 2, 6, 6];
+document.write('Problem Statement I :<br>');
+document.write('<br>');
+document.write(
+  'Implement a function, findFirstUnique(arr), which takes an array as input and returns the first unique integer in the array.'
+);
+document.write('<br>');
+document.write('<br>');
 document.write('Input :  [9,2,3,2,6,6] ');
 document.write('<br>');
 document.write('<br>');
