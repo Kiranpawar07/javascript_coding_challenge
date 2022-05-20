@@ -13,9 +13,9 @@ document.write('Output :  ');
 let Array1 = [1, 2, 3, 4, 5];
 let N = Array1.length;
 let K = 3;
-RightRotateArray(Array1, N, K);
+rightRotate(Array1, N, K);
 
-function RightRotateArray(a, n, k) {
+function rightRotate(a, n, k) {
   k = k % n;
   for (let i = 0; i < n; i++) {
     if (i < k) {
