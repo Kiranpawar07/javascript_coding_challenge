@@ -32,3 +32,12 @@ document.write('Input :  [9,2,3,2,6,6] ');
 document.write('<br>');
 document.write('<br>');
 document.write('Output :  ' + findFirstUnique(arr));
+document.write('<br>');
+document.write('<br>');
+document.write(
+  '------------------------------------------------------------------------------------------------------------'
+);
+
+document.write('<br>');
+document.write('<br>');
+
