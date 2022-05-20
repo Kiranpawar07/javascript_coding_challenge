@@ -1,3 +1,14 @@
+document.write('Problem Statement II :<br>');
+document.write('<br>');
+document.write(
+  'Implement a function rightRotate(arr,n) that will rotate the given array by n.'
+);
+document.write('<br>');
+document.write('<br>');
+document.write('Input : arr = [ 1, 2, 3, 4, 5]  and n = 3 ');
+document.write('<br>');
+document.write('<br>');
+document.write('Output :  ');
 
 let Array1 = [1, 2, 3, 4, 5];
 let N = Array1.length;
